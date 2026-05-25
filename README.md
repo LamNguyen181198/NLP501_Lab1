@@ -1,1 +1,1 @@
-# NLP501_Lab1
+# EXERCISE 1: Sentiment Analysis & Vector Spaces
